@@ -1,0 +1,21 @@
+# Compiled programs and object files
+*.exe
+*.out
+*.o
+*.obj
+*.bin
+
+# Temporary input/output files
+*.in
+*.ans
+*.inp
+*.output
+
+# IDE and editor files
+.vscode/
+.idea/
+
+# Operating-system files
+Thumbs.db
+Desktop.ini
+.DS_Store
